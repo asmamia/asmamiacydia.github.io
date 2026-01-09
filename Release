@@ -2,7 +2,7 @@ Origin: asmamia cydia repository
 Label: asmamia cydia repository
 Suite: stable 
 Version: 1.0 
-Codename: stable 
-Architectures: darwin-arm 
+Codename: iOS 
+Architectures: iphoneos-arm 
 Components: main 
-Description: Provides packages required for iOS 6 to connect to In-AppStore.com servers 
+Description: IAP for iOS 8.4.1
